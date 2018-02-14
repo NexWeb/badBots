@@ -1,7 +1,7 @@
 # Bad Bots
- List of know IPs that are looking for vulnerabilities. These IP addresses are know to be scanning for server vulnerabilities. Even if they don't find any, they are wasting server resources. 
+List of IPs that are known to be making requests looking for server vulnerabilities. Even if they don't find any vulnerabilities, they are wasting server resources. 
  
-An example you may see in your server logs is "/ogShow.aspx?name=ogFoot&line=0&from=oGateeu"
+An example, you may see in your server logs is "/ogShow.aspx?name=ogFoot&line=0&from=oGateeu"
 
 124.90.52.254  
 124.235.138.119  
