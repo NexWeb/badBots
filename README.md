@@ -2,6 +2,7 @@
 List of IPs that are known to be making requests looking for server vulnerabilities. Even if they don't find any vulnerabilities, they are wasting server resources. 
  
 An example, you may see in your server logs is "/ogShow.aspx?name=ogFoot&line=0&from=oGateeu"
+
 221.11.230.20  
 183.184.82.139  
 112.66.99.32  
