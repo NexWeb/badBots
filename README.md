@@ -3,6 +3,11 @@ List of IPs that are known to be making requests looking for server vulnerabilit
  
 An example, you may see in your server logs is "/ogShow.aspx?name=ogFoot&line=0&from=oGateeu"
 
+175.42.0.18  
+175.19.254.77  
+110.177.72.128  
+106.47.163.72  
+124.88.64.211  
 1.202.70.52  
 112.193.170.15  
 124.88.64.221  
