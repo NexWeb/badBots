@@ -19,7 +19,7 @@ An example, you may see in your server logs is "/ogShow.aspx?name=ogFoot&line=0&
 113.128.104.47  
 182.119.229.57  
 220.175.60.100  
-124.235.138.22
+124.235.138.22  
 123.14.127.122  
 171.12.10.60  
 1.31.56.121  
